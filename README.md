@@ -1,4 +1,4 @@
-# Discord-Announcement-Bot
+# Discord-Announcement-Code
 const Discord = require('discord.js');
 
 exports.run = (client, message, args) => {
